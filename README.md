@@ -21,7 +21,7 @@ Total Casualties and Total Accident by Location
 
 ## Screenshots
 
-![App Screenshot](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard/blob/main/Final%20Dashboard%20Image.PNG)
+![App Screenshot]([https://github.com/AseenSaxena/Road-Accident-Analysis/blob/main/Dashboard_screen.png])
 
 
 ## Formula
