@@ -21,7 +21,7 @@ Total Casualties and Total Accident by Location
 
 ## Screenshots
 
-![App Screenshot]([https://github.com/AseenSaxena/Road-Accident-Analysis/blob/main/Dashboard_screen.png])
+![App Screenshot](https://github.com/AseenSaxena/Road-Accident-Analysis/blob/main/Dashboard_screen.png)
 
 
 ## Formula
